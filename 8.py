@@ -2421,7 +2421,7 @@ USER_AGENTS = [
     'Mozilla/5.0 (X11; U; Linux i686; it-it) AppleWebKit/531.2+ (KHTML, like Gecko) Safari/531.2+ Epiphany/2.30.2',
     'Mozilla/5.0 (X11; U; Linux x86_64; fr-fr) AppleWebKit/531.2+ (KHTML, like Gecko) Safari/531.2+ Epiphany/2.29.91',
     'Mozilla/5.0 (X11; U; Linux x86_64; it-it) AppleWebKit/534.26+ (KHTML, like Gecko) Ubuntu/11.04 Epiphany/2.30.6',
-     Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; JuziBrowser)',
+    'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.4; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; JuziBrowser)',
     'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0; JuziBrowser)',
     'Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; rv:11.0; JuziBrowser) like Gecko',
     'BacaBerita App/9.6.2 (Linux; U; Android 28; en-us) Mobile Safari',
